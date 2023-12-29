@@ -1,0 +1,53 @@
+#header{
+   background-color: yellow;
+   color: black;
+   font-size: 80px;
+   text-align: center;
+}
+#center{
+   text-align: center;
+}
+#orange{
+   background-color: orange;
+   color: green;
+}
+#pink{
+   background: pink;
+   color: black;
+}
+#lightblue{
+   background-color: lightblue;
+   color: black;
+}
+#ls{
+   background: darkgoldenrod ;
+   color:black; 
+}
+#ly{
+   background: lightyellow;
+   color: green;
+}
+#w{
+   background: white;
+   color: green;
+}
+#lg{
+   background: lightgreen;
+   color: black;
+}
+#yellow{
+   background: yellow;
+   color: black;
+}
+#light{
+   background: rgb(236, 243, 245);
+   color: green;
+}
+#wr{
+   background: white;
+   color: red;
+}
+#pin{
+   background: Pink;
+   color: red;
+}
